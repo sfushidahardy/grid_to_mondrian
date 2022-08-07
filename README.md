@@ -1,12 +1,15 @@
 ---MONDRIAN GENERATOR---
 
-
+0. What is this?
 1. How to use the programme
 2. Shoutout to my friends
 3. Disclaimer about my coding skills
 
 Made by Shintaro Fushida-Hardy
 
+0. What is this?
+
+This is a programme for converting a grid diagram (of a knot or link) into an artwork in the style of Piet Mondrian. (A grid diagram is a special type of knot/link diagram, see for example https://web.math.princeton.edu/~petero/GridHomologyBook.pdf.) The resulting artwork is somewhat randomly generated, and also contains the original knot/link. A few example output-images have been added to this github directory.
 
 1. How to use the programme
 
