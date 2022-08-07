@@ -27,3 +27,6 @@ Thanks Talia Blum, David Farrell, Peter Huxford and Yustyna Klish for helping wi
 3. Coding disclaimer
 
 If you're good at coding, you probably want to avoid looking at what I wrote because it's definitely very inefficient and it'll probably hurt you.
+
+
+![trefoil_example](https://github.com/sfushidahardy/grid_to_mondrian/blob/main/trefoil_example.png)
