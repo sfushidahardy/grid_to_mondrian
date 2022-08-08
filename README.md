@@ -19,7 +19,7 @@ For example, in your terminal, enter "python3 mondriangenerator.py".
 
 It will then tell you to enter a grid size. For example, for a 3x3 grid diagram, enter "3".
 
-Next it'll tell you to enter the grid. The entry is line-by-line. For example, enter "1 1 0". Then enter "1 0 1". Finally enter "0 1 1". Here the 1s represent marked squares on the grid diagram, and 0s represent unmarked squares.
+Next it'll tell you to enter the grid. The entry is line-by-line. For example, enter "1 1 0". Then enter "1 0 1". Finally enter "0 1 1". (Note that you need spaces between digits! e.g. 1 1 0 rather than 110.) Here the 1s represent marked squares on the grid diagram, and 0s represent unmarked squares.
 
 If you entered a valid grid diagram, it'll take several seconds to generate a Mondrian artwork of the grid diagram and then quit the programme. Otherwise it'll quit the programme without doing anything. Note that the artwork will be shown, and it'll also be saved (as image.py) in the same directory as the programme file.
 
